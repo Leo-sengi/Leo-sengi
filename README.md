@@ -54,5 +54,5 @@ My journey in Information Technology has led me to develop a passion for cyberse
 </div>
 
 ## Projects
-- SOC 1 Endpoint Security Monitoring
+- Endpoint Security Monitoring
 - SOC Automation Project

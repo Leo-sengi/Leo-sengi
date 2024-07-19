@@ -13,7 +13,7 @@ My journey in Information Technology has led me to develop a passion for cyberse
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Investigate and remediate infected machine         | <a href="https://google.com">Detection Lab</a>|
+| Investigate and remediate infected machine         | SOC 1 Endpoint Security Monitoring|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
